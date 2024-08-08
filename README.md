@@ -1,20 +1,21 @@
-# Hi there, I'm Rupam Ganguly! 👋
+# Hey there! I'm Rupam Ganguly 👋
 
-Welcome to my GitHub profile! I'm passionate about technology, coding, and continuous learning. Here you can find some of the projects I've been working on and explore my contributions to the open-source community.
+Welcome to my GitHub profile! I'm passionate about technology, coding, and learning. Here you can find some of the projects I've been working on and explore my contributions to the open-source community.
 
 ## 🚀 About Me
 
-- 💻 **Tech Enthusiast** with a keen interest in database management systems, Raspberry Pi projects, networking, and Python programming.
+- 💻 **Tech Enthusiast** with a keen interest in Programming, Database Management Systems, IoT projects (Raspberry Pi, Arduino, ESP32), and Web Development.
 - 📚 **Continuous Learner** always exploring new technologies and enhancing my skills.
 - 🛠️ **Problem Solver** who enjoys tackling complex challenges and finding efficient solutions.
 
 ## 🔧 Technologies & Tools
 
-- **Programming Languages**: Python, JavaScript, HTML, CSS
-- **Frameworks & Libraries**: Pygame, PyCairo, Arcade
-- **Databases**: MySQL, SQLite
-- **Tools**: Git, GitHub, PyCharm
-- **Other**: Raspberry Pi GPIO, Adafruit SSD1306, pynput
+- **Programming Languages**: Python, Java, C, JavaScript,  
+- **Frameworks & Libraries**: SWF & Lxml & Pillow & , RPi.GPIO, Adafruit SSD1306, Keyboard & Pynput, Requests & BeautifulSoup4 & Selenium & Sockets,  
+- **Databases**: MySQL, MongoDB
+- **IoT**: Raspberry Pi, Arduino, ESP32
+- **Tools**: Git, GitHub, PyCharm, Arduino IDE, IntelliJ, VS Code
+- **Other**: 
 
 ## 🏆 Projects
 
