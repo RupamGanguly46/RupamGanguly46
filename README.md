@@ -4,17 +4,17 @@ Welcome to my GitHub profile! I'm passionate about technology, coding, and learn
 
 ## 🚀 About Me
 
-- 💻 **Tech Enthusiast** with a keen interest in Programming, Database Management Systems, IoT projects (Raspberry Pi, Arduino, ESP32), and Web Development.
+- 💻 **Tech Enthusiast** with a keen interest in Programming, Database Management Systems, Data Analytics, IoT projects, Web Development.
 - 📚 **Continuous Learner** always exploring new technologies and enhancing my skills.
 - 🛠️ **Problem Solver** who enjoys tackling complex challenges and finding efficient solutions.
 
 ## 🔧 Technologies & Tools
 
-- **Programming Languages**: Python, Java, C, JavaScript,  
-- **Frameworks & Libraries**: SWF & Lxml & Pillow & , RPi.GPIO, Adafruit SSD1306, Keyboard & Pynput, Requests & BeautifulSoup4 & Selenium & Sockets,  
+- **Programming Languages**: Python, Java, C, JavaScript
+- **Frameworks & Libraries**: Numpy & Pandas & Matplotlib, Requests & BeautifulSoup4 & Selenium & Sockets, SWF & Pillow, RPi.GPIO & Adafruit SSD1306, Keyboard & Pynput. 
 - **Databases**: MySQL, MongoDB
 - **IoT**: Raspberry Pi, Arduino, ESP32
-- **Tools**: Git, GitHub, PyCharm, Arduino IDE, IntelliJ, VS Code
+- **Tools**: Git & GitHub, Visual Studio Code, JetBrains Tools (PyCharm, IntelliJ), Arduino IDE, Virtual Box & VMware, Microsoft Excel.
 - **Other**: 
 
 ## 🏆 Projects
@@ -31,7 +31,7 @@ A project demonstrating attacks on a Metasploitable virtual machine using Python
 ## 📫 How to Reach Me
 
 - **GitHub**: [RupamGanguly46](https://github.com/RupamGanguly46)
-- **Email**: [your-email@example.com](mailto:your-email@example.com) (optional)
+- **Email**: [rupam.ganguly46@gmail.com](mailto:rupam.ganguly46@gmail.com) 
 
 ## 📈 GitHub Stats
 
