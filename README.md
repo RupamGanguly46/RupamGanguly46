@@ -31,7 +31,8 @@ A project demonstrating attacks on a Metasploitable virtual machine using Python
 ## 📫 How to Reach Me
 
 - **GitHub**: [RupamGanguly46](https://github.com/RupamGanguly46)
-- **Email**: [rupam.ganguly46@gmail.com](mailto:rupam.ganguly46@gmail.com) 
+- **Email**: [rupam.ganguly46@gmail.com](mailto:rupam.ganguly46@gmail.com)
+- **Linkedin**: [Rupam Ganguly](www.linkedin.com/in/rupam-ganguly-88329328b)
 
 ## 📈 GitHub Stats
 
