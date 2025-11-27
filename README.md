@@ -1,168 +1,204 @@
-# 👋 Hey there, I'm **Rupam Ganguly**
+<!-- HEADER -->
+<div align="center">
 
-**AIoT Developer • Machine Learning Lead (GDG Mathura) • Open-Source Contributor**  
-Agra, Uttar Pradesh, India  
+<img 
+  src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=32&pause=1000&color=00E7FF&center=true&vCenter=true&width=800&height=45&lines=Hey+there%2C+I'm+Rupam+Ganguly!;AIoT+Developer+%7C+Open-Source+Contributor" 
+  alt="Typing SVG"
+/>
 
-I design and build intelligent systems at the intersection of **AI + IoT + Automation + Full-Stack Development**.  
-My work includes **ADAS systems, conversational AI frameworks, smart intercom devices, robotics, and real-time communication platforms**.  
-I love mentoring developers, leading ML teams, and creating tech that solves real-world problems.
+</div>
 
----
+<br>
 
-## 🚀 About Me
+<p align="center">
+  <b>ML Lead @ GDG Mathura</b><br>
+  <i>Building intelligent systems that fuse AI, IoT & Advanced Automation.</i>
+</p>
 
-- 🤖 **AIoT Developer** — robotics, ADAS, sensors, automation, edge computing  
-- 🧠 **ML Engineer** — CV, NLP, GenAI, LLMs, RAG, embeddings, evaluation  
-- 🛜 **Full-Stack Developer** — FastAPI, Flask, React, Node.js, distributed systems  
-- 🎙️ **Speaker & Mentor** — ML workshops, OSS guidance, student mentorship  
-- 🌱 Passionate about **AI, cloud, embedded systems & innovation**
-
----
-
-## 💼 Experience
-
-### 🔹 Machine Learning Lead — **GDG Mathura** (2025 – Present)
-- Led ML/GenAI contributions during Hacktoberfest  
-- Guided students in PR/MR workflows  
-- Delivered beginner-friendly ML/GenAI workshops  
-
-### 🔹 Public Relations Team — **GDG Mathura** (2024 – 2025)
-- Managed Nvision workshop & multi-college coordination  
-- Drove **500+ leads** and **200+ participants** for Flutter Fest  
-
-### 🔹 Data Analyst Intern — **SkillCred** (2024)
-- Performed analytics on logistics ODA costs for QuickShip  
-- Built Excel automations, dashboards & BI flows  
+<!-- Blue Line -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00E7FF,100:0077FF&height=2"/>
+</p>
 
 ---
 
-## 🏆 Highlight Projects
+<!-- ABOUT ME -->
+<h2 align="center">About Me</h2>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00E7FF,100:0077FF&height=2"/>
+</p>
+
+🎯 AIoT Developer & Full-Stack Engineer  
+🧠 ML Engineer specializing in CV, NLP, LLMs & RAG  
+🤖 Robotics, automation & embedded systems enthusiast  
+🌐 Cloud developer working with Azure/GCP  
+📣 Speaker, mentor & open-source contributor  
+
+
+---
+
+<!-- EXPERIENCE -->
+<h2 align="center">Experience</h2>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00E7FF,100:0077FF&height=2"/>
+</p>
+
+### 🔹 **Machine Learning Lead — GDG Mathura (2025–Present)**
+- Led ML/GenAI open-source projects during Hacktoberfest  
+- Conducted practical, beginner-friendly ML workshops  
+- Mentored developers on PR/MR workflows  
+
+### 🔹 **Public Relations Team — GDG Mathura (2024–2025)**
+- Lead coordinator for Nvision workshops  
+- Generated **500+ leads** & **200+ event participants**
+
+### 🔹 **Data Analyst Intern — SkillCred (2024)**
+- Automated analytics pipelines with advanced Excel  
+- Analyzed ODA cost trends for QuickShip Logistics  
+
+---
+
+<!-- PROJECTS -->
+<h2 align="center">Highlight Projects</h2>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00E7FF,100:0077FF&height=2"/>
+</p>
 
 ### 🚨 **SARV – Surveillance & Rescue Vehicle**
-Multiprocessing Raspberry Pi rover with OLED display, ultrasonic detection, environmental sensors, motor drivers, and real-time keyboard control.
+Raspberry Pi rover with multiprocessing, OLED UI, ultrasonic sensors, environmental monitoring, and real-time controls.
 
 ### 🚗 **KAVACH – Smart ADAS (Level-2)**
-Cruise-control sync, manual/autonomous switching, OpenCV-based drowsiness detection (EAR), and ultrasonic automatic braking.
+Drowsiness detection (EAR), real-time braking, ultrasonic sensors & autonomous/manual switching.
 
 ### 🏠 **SANCHAR – Offline Smart Intercom**
-LAN-only video calling, ISL ↔ text/voice translation, vibration-sensor emergency alerts, accessibility-centric design.
+LAN-based video calling, ISL ↔ text/voice translation, accessibility-focused emergency system.
 
-### 🤖 **SAKHI – Emotionally Intelligent Conversational AI**
-FastAPI + Azure GPT-4o + LangChain v3 + FAISS  
-Hybrid Whisper/Bhashini/Sarvam STT, hashing-based ingestion, multi-format support, real-time UI & analytics.
-
----
-
-## 🧰 Tech Stack
-
-### 🚀 Languages  
-Python • Java • JavaScript • C • SQL
-
-### 🤖 AI/ML  
-TensorFlow • PyTorch • Keras • Transformers • LangChain  
-OpenAI APIs • NumPy • Pandas • Matplotlib • Seaborn
-
-### 🛜 Backend & Web  
-FastAPI • Flask • Node.js • Express • React • EJS  
-REST • WebSockets • Real-time Systems
-
-### ☁️ Cloud  
-Azure • Google Cloud
-
-### 🗄️ Databases  
-MongoDB • MySQL • SQLite • MS SQL Server
-
-### 🔌 IoT / Automation  
-Raspberry Pi • ESP8266 • Arduino  
-Sensors, drivers, multiprocessing  
-Selenium • Playwright • BS4 • Requests
-
-### 🛠️ Tools  
-Git • GitHub • Docker • VS Code • PyCharm • IntelliJ • Figma
+### 🤖 **SAKHI – Multimodal GenAI Voice Assistant**
+FastAPI + GPT-4o + LangChain + Whisper/Bhashini/Sarvam hybrid transcription pipeline.
 
 ---
 
-## 🏅 Achievements
+<!-- TECH STACK -->
+<h2 align="center">Tech Stack</h2>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00E7FF,100:0077FF&height=2"/>
+</p>
 
-- 🥇 1st — **Tech Expo (CSED)** — *SARV*  
-- 🥇 1st — **E-Summit’24 Startup Expo** — *Harmony Haus*  
-- 🥈 Top-2 — **Smart India Hackathon (Univ Round)** — *SANCHAR*  
-- 🏅 Top-5 — **GeekVerse Hackathon 2025**  
-- 📜 **Microsoft AI-900 Certified**
+<div>
 
----
+**Languages:** Python • Java • JS • C • SQL  
+**AI/ML:** PyTorch • TensorFlow • Transformers • LangChain  
+**Backend:** FastAPI • Flask • Node.js • Express  
+**Frontend:** React • EJS • HTML/CSS  
+**Databases:** MongoDB • MySQL • SQLite • MS SQL  
+**Cloud:** Azure • Google Cloud  
+**IoT:** Raspberry Pi • ESP8266 • Sensors • Drivers  
+**Tools:** Docker • Git • VSCode • PyCharm • Figma  
 
-# 📈 GitHub Stats (Self-Hosted • Zero Rate-Limits • Transparent Theme)
-
-### ⭐ Profile Stats
-![Rupam's GitHub Stats](https://github-readme-stats-pi-gold-86.vercel.app/api?username=RupamGanguly46&show_icons=true&theme=vision-friendly-dark)
-
-
-### 🔥 Streak Stats
-![GitHub Streak](https://streak-stats.vercel.app?user=RupamGanguly46&theme=highcontrast)
-
-
-
-### 🧠 Top Languages
-![Top Langs](https://github-readme-stats-pi-gold-86.vercel.app/api/top-langs/?username=RupamGanguly46&layout=compact&theme=vision-friendly-dark)
+</div>
 
 ---
 
-## 📌 Top Repositories
+<!-- ACHIEVEMENTS -->
+<h2 align="center">Achievements</h2>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00E7FF,100:0077FF&height=2"/>
+</p>
 
-[![ICP](https://github-readme-stats-pi-gold-86.vercel.app/api/pin/?username=RupamGanguly46&repo=ICP&theme=vision-friendly-dark)](https://github.com/RupamGanguly46/ICP)
-
-[![project-cyfutureai](https://github-readme-stats-pi-gold-86.vercel.app/api/pin/?username=RupamGanguly46&repo=project-cyfutureai&theme=vision-friendly-dark)](https://github.com/RupamGanguly46/project-cyfutureai)
+🏆 1st — Tech Expo (SARV)  
+🥇 1st — E-Summit’24 Startup Expo  
+🥈 Top-2 — SIH University Round  
+🏅 Top-5 — GeekVerse Hackathon  
+📜 Microsoft AI-900 Certified  
 
 ---
 
-## 🌐 Connect With Me
+<h2 align="center">Certifications</h2>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00E7FF,100:0077FF&height=2"/>
+</p>
+
+<div align="center">
+<a href="https://learn.microsoft.com/api/credentials/share/en-us/RupamGanguly-1749/25FDDB7924A11244?sharingId=AE188CF3B392185D">
+  <img src="ai900.jpg" width="500"/>
+</a>
+</div>
+
+<!-- STATS -->
+<h2 align="center">GitHub Stats</h2>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00E7FF,100:0077FF&height=2"/>
+</p>
+
+<div align="center">
+
+### ⭐ Profile Stats  
+<img src="https://github-readme-stats-pi-gold-86.vercel.app/api?username=RupamGanguly46&show_icons=true&theme=vision-friendly-dark" height="160"/>
+
+### 🔥 Streak Stats  
+<img src="https://streak-stats.vercel.app?user=RupamGanguly46&theme=highcontrast" height="160"/>
+
+### 🧠 Top Languages  
+<img src="https://github-readme-stats-pi-gold-86.vercel.app/api/top-langs/?username=RupamGanguly46&layout=compact&theme=vision-friendly-dark" height="140"/>
+
+</div>
+
+---
+
+<!-- PINNED -->
+<h2 align="center">Top Repositories</h2>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00E7FF,100:0077FF&height=2"/>
+</p>
+
+<p align="center">
+  <a href="https://github.com/RupamGanguly46/ICP">
+    <img src="https://github-readme-stats-pi-gold-86.vercel.app/api/pin/?username=RupamGanguly46&repo=ICP&theme=vision-friendly-dark"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/RupamGanguly46/project-cyfutureai">
+    <img src="https://github-readme-stats-pi-gold-86.vercel.app/api/pin/?username=RupamGanguly46&repo=project-cyfutureai&theme=vision-friendly-dark"/>
+  </a>
+</p>
+
+---
+
+<!-- CONTACT -->
+<h2 align="center">Connect With Me</h2>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00E7FF,100:0077FF&height=2"/>
+</p>
 
 <table align="center">
   <tr>
-    <!-- Email -->
     <td align="center">
       <a href="mailto:rupam.ganguly46@gmail.com">
-        <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" width="40" height="40" alt="Gmail"/><br>
-        <sub>Email</sub>
+        <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" width="40"/><br><sub>Email</sub>
       </a>
     </td>
-    <!-- LinkedIn -->
     <td align="center">
       <a href="https://linkedin.com/in/rupam-ganguly-88329328b">
-        <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="40" height="40" alt="LinkedIn"/><br>
-        <sub>LinkedIn</sub>
+        <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="40"/><br><sub>LinkedIn</sub>
       </a>
     </td>
-    <!-- GitHub -->
     <td align="center">
       <a href="https://github.com/RupamGanguly46">
-        <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" width="40" height="40" alt="GitHub"/><br>
-        <sub>GitHub</sub>
+        <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" width="40"/><br><sub>GitHub</sub>
       </a>
     </td>
-    <!-- LeetCode -->
     <td align="center">
       <a href="https://leetcode.com/RupamGanguly46">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="40" height="40" alt="LeetCode"/><br>
-        <sub>LeetCode</sub>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="40"/><br><sub>LeetCode</sub>
       </a>
     </td>
-    <!-- Twitter -->
     <td align="center">
       <a href="https://twitter.com/rupamganguly46">
-        <img src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" width="40" height="40" alt="Twitter"/><br>
-        <sub>Twitter</sub>
+        <img src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" width="40"/><br><sub>Twitter</sub>
       </a>
     </td>
   </tr>
 </table>
 
-
-
-
-
-
-
----
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00E7FF,100:0077FF&height=2"/>
+</p>
