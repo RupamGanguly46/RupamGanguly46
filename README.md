@@ -28,11 +28,11 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00E7FF,100:0077FF&height=2"/>
 </p>
 
-🎯 AIoT Developer & Full-Stack Engineer  
-🧠 ML Engineer specializing in CV, NLP, LLMs & RAG  
-🤖 Robotics, automation & embedded systems enthusiast  
-🌐 Cloud developer working with Azure/GCP  
-📣 Speaker, mentor & open-source contributor  
+- AIoT Developer & Full-Stack Engineer  
+- ML Engineer specializing in CV, NLP, LLMs & RAG  
+- Robotics, automation & embedded systems enthusiast  
+- Cloud developer working with Azure/GCP  
+- Speaker, mentor & open-source contributor  
 
 
 ---
@@ -64,16 +64,16 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00E7FF,100:0077FF&height=2"/>
 </p>
 
-### 🚨 **SARV – Surveillance & Rescue Vehicle**
+### 🔹 **SARV – Surveillance & Rescue Vehicle**
 Raspberry Pi rover with multiprocessing, OLED UI, ultrasonic sensors, environmental monitoring, and real-time controls.
 
-### 🚗 **KAVACH – Smart ADAS (Level-2)**
+### 🔹 **KAVACH – Smart ADAS (Level-2)**
 Drowsiness detection (EAR), real-time braking, ultrasonic sensors & autonomous/manual switching.
 
-### 🏠 **SANCHAR – Offline Smart Intercom**
+### 🔹 **SANCHAR – Offline Smart Intercom**
 LAN-based video calling, ISL ↔ text/voice translation, accessibility-focused emergency system.
 
-### 🤖 **SAKHI – Multimodal GenAI Voice Assistant**
+### 🔹 **SAKHI – Multimodal GenAI Voice Assistant**
 FastAPI + GPT-4o + LangChain + Whisper/Bhashini/Sarvam hybrid transcription pipeline.
 
 ---
@@ -105,11 +105,11 @@ FastAPI + GPT-4o + LangChain + Whisper/Bhashini/Sarvam hybrid transcription pipe
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00E7FF,100:0077FF&height=2"/>
 </p>
 
-🏆 1st — Tech Expo (SARV)  
-🥇 1st — E-Summit’24 Startup Expo  
-🥈 Top-2 — SIH University Round  
-🏅 Top-5 — GeekVerse Hackathon  
-📜 Microsoft AI-900 Certified  
+- 1st — Tech Expo (SARV)  
+- 1st — E-Summit’24 Startup Expo  
+- Top-2 — SIH University Round  
+- Top-5 — GeekVerse Hackathon  
+- Microsoft AI-900 Certified  
 
 ---
 
@@ -132,13 +132,13 @@ FastAPI + GPT-4o + LangChain + Whisper/Bhashini/Sarvam hybrid transcription pipe
 
 <div align="center">
 
-### ⭐ Profile Stats  
+### 🔹 Profile Stats  
 <img src="https://github-readme-stats-pi-gold-86.vercel.app/api?username=RupamGanguly46&show_icons=true&theme=vision-friendly-dark" height="160"/>
 
-### 🔥 Streak Stats  
+### 🔹 Streak Stats  
 <img src="https://streak-stats.vercel.app?user=RupamGanguly46&theme=highcontrast" height="160"/>
 
-### 🧠 Top Languages  
+### 🔹 Top Languages  
 <img src="https://github-readme-stats-pi-gold-86.vercel.app/api/top-langs/?username=RupamGanguly46&layout=compact&theme=vision-friendly-dark" height="140"/>
 
 </div>
@@ -155,7 +155,7 @@ FastAPI + GPT-4o + LangChain + Whisper/Bhashini/Sarvam hybrid transcription pipe
   <a href="https://github.com/RupamGanguly46/ICP">
     <img src="https://github-readme-stats-pi-gold-86.vercel.app/api/pin/?username=RupamGanguly46&repo=ICP&theme=vision-friendly-dark"/>
   </a>
-  &nbsp;&nbsp;
+  <!-- &nbsp;&nbsp; -->
   <a href="https://github.com/RupamGanguly46/project-cyfutureai">
     <img src="https://github-readme-stats-pi-gold-86.vercel.app/api/pin/?username=RupamGanguly46&repo=project-cyfutureai&theme=vision-friendly-dark"/>
   </a>
