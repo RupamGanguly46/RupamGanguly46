@@ -153,11 +153,10 @@ FastAPI + GPT-4o + LangChain + Whisper/Bhashini/Sarvam hybrid transcription pipe
 
 <p align="center">
   <a href="https://github.com/RupamGanguly46/ICP">
-    <img src="https://github-readme-stats-pi-gold-86.vercel.app/api/pin/?username=RupamGanguly46&repo=ICP&theme=vision-friendly-dark"/>
+    <img src="https://github-readme-stats-pi-gold-86.vercel.app/api/pin/?username=RupamGanguly46&repo=ICP&theme=vision-friendly-dark" height="165"/>
   </a>
-  <!-- &nbsp;&nbsp; -->
   <a href="https://github.com/RupamGanguly46/project-cyfutureai">
-    <img src="https://github-readme-stats-pi-gold-86.vercel.app/api/pin/?username=RupamGanguly46&repo=project-cyfutureai&theme=vision-friendly-dark"/>
+    <img src="https://github-readme-stats-pi-gold-86.vercel.app/api/pin/?username=RupamGanguly46&repo=project-cyfutureai&theme=vision-friendly-dark" height="165"/>
   </a>
 </p>
 
@@ -173,27 +172,27 @@ FastAPI + GPT-4o + LangChain + Whisper/Bhashini/Sarvam hybrid transcription pipe
   <tr>
     <td align="center">
       <a href="mailto:rupam.ganguly46@gmail.com">
-        <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" width="40"/><br><sub>Email</sub>
+        <img src="https://i.postimg.cc/hPcB2zvR/Backgroundless-Gmail.png" width="40"/>
       </a>
     </td>
     <td align="center">
       <a href="https://linkedin.com/in/rupam-ganguly-88329328b">
-        <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="40"/><br><sub>LinkedIn</sub>
+        <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="40"/>
       </a>
     </td>
     <td align="center">
       <a href="https://github.com/RupamGanguly46">
-        <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" width="40"/><br><sub>GitHub</sub>
+        <img src="https://i.postimg.cc/yNPZTMLk/github_removebg.png" width="40"/>
       </a>
     </td>
     <td align="center">
       <a href="https://leetcode.com/RupamGanguly46">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="40"/><br><sub>LeetCode</sub>
+        <img src="https://i.postimg.cc/DfbzfV1M/Backgroundless-Leetcode.png)" width="40"/>
       </a>
     </td>
     <td align="center">
       <a href="https://twitter.com/rupamganguly46">
-        <img src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" width="40"/><br><sub>Twitter</sub>
+        <img src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" width="40"/>
       </a>
     </td>
   </tr>
